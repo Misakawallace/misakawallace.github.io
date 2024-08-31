@@ -2,10 +2,10 @@
 date: 2018-11-22 12:26:40
 layout: post
 title: BASED ON A TRUE STORY
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+subtitle: Between fiction and reality.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+image: assets/img/fiction_big.png
+optimized_image: 
 category: life
 tags:
   - books

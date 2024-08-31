@@ -1,14 +1,12 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Truth and Lies
+title: Truth and Lies | A blog from CG
+description: Truth and Lies is a personal project of Claudia Galetzka
 tags:
   - blog
   - template
   - jekyll
   - theme
-  - netlify
 show_hero: true
 menu:
   - title: Home
