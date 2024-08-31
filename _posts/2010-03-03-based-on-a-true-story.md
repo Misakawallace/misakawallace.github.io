@@ -5,7 +5,7 @@ title: BASED ON A TRUE STORY
 subtitle: Between fiction and reality.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: assets/img/fiction_big.png
-optimized_image: 
+optimized_image: assets/img/fiction_big.png
 category: life
 tags:
   - books
