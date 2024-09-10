@@ -8,9 +8,9 @@ image: "/assets/img/fiction_big.png"
 optimized_image: "/assets/img/fiction_small.png"
 category: technology
 tags:
-  - books
-  - read
-author: mranderson
+  - psychology
+  - technology
+author: cgaletzka
 paginate: true
 ---
 
