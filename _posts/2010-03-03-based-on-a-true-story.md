@@ -1,12 +1,12 @@
 ---
 date: 2018-11-22 12:26:40
 layout: post
-title: BASED ON A TRUE STORY
-subtitle: Between fiction and reality.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: assets/img/fiction_big.png
-optimized_image: assets/img/fiction_big.png
-category: life
+title: Nach einer wahren Geschichte
+subtitle: Zwischen Fiktion und Realität
+description: Weshalb wir uns mit fiktionalen Erzählungen genauso intensiv außeinandersetzen, wie mit der Realität.
+image: "/assets/img/fiction_big.png"
+optimized_image: "/assets/img/fiction_small.png"
+category: technology
 tags:
   - books
   - read
