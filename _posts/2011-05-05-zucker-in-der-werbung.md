@@ -6,7 +6,7 @@ subtitle: Die Analyse des Zusammenhangs der Darstellung von Kindern in Werbespot
 description: Ein Projektbericht zur Analyse der erhobenen Daten im Projekt Marktkommunikation aus dem Studiengang Medienpsychologie
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
-category: code
+category: psychology
 tags:
   - platform
   - javascript
